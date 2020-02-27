@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{A61D29D9-C880-4CA7-924C-694A646205B9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EntityFrameworkMia.csproj">
+    <Files>
+      <File FileName="EntityFrameworkMia.csproj" Line="19" Column="33" />
+      <File FileName="Controllers/BlogController.cs" Line="34" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EntityFrameworkMia" expanded="True">
+            <Node name="EntityFrameworkMia" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="20200226105700_InitialCreate.cs" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="EntityFrameworkMia.csproj" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EntityFrameworkMia PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
